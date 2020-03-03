@@ -41,6 +41,8 @@ class Song
     
   end 
   
-  def self.
+  def self.new_from_filename 
+    
+  end 
     
 end 
