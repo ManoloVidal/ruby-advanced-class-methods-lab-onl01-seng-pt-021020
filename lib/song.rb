@@ -14,6 +14,8 @@ class Song
     song = self.new 
     song.save
     song 
+    
+  def self.
 end 
 
 end
